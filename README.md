@@ -1,4 +1,5 @@
-# SteganographicEncryption-WinForms-SSTU
+# SteganographicEncryption-NET-WinForms-SSTU
+
 This is a C# WinForms program that showcases the capabilities of steganographic information hiding within an image.
 
 In the left section, text is encrypted using the AES standard (Rijndael) and concealed within the least significant bits of the color component of each pixel in the image, employing a steganographic algorithm.
